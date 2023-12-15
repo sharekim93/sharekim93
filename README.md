@@ -1,5 +1,8 @@
 ### Hi there, I'm Share Kim  👋
 
+## contact
+💌 sksyag@naver.com
+
 ## 👨‍💻 Career
 - Now looking for a job
 - 🖨️ Software Engineer in Bixolon (2021.04 ~ 2023.07)
