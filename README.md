@@ -1,8 +1,5 @@
 ### Hi there, I'm Share Kim  👋
 
-## contact
-💌 sksyag@naver.com
-
 ## 👨‍💻 Career
 - Now looking for a job
 - 🖨️ Software Engineer in Bixolon (2021.04 ~ 2023.07)
@@ -21,3 +18,7 @@ Java, Spring, Tomcat
 ## 🚂 Toy Proejct
 - react-shop-app(2023.11 ~ 2023.12) : a clone of popular shopping web site.
 - Simple Chat(2023.11 ~ 2023.12) : a simple Chat Web App using firebase.
+
+## Contact
+✉️ sksyag@naver.com
+
