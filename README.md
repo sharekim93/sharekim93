@@ -1,7 +1,6 @@
 ### Hi there, I'm Share Kim  👋
 
 ## 👨‍💻 Career
-- Now looking for a job
 - 🖨️ Software Engineer in Bixolon (2021.04 ~ 2023.07)
 
 ## ✨ Skills
